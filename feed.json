@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "lady rosa",
     "description": "",
-    "home_page_url": "https://github.com/imnxnyer/lady-rosa",
-    "feed_url": "https://github.com/imnxnyer/lady-rosa/feed.json",
+    "home_page_url": "https://github.com/imnxnyer/lady-rosa/index.html",
+    "feed_url": "https://github.com/imnxnyer/lady-rosa/index.html/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/imnxnyer/lady-rosa/media/website/lady-rosa-word-icon.jpg",
+    "icon": "https://github.com/imnxnyer/lady-rosa/index.html/media/website/lady-rosa-word-icon.jpg",
     "author": {
         "name": "Rosa"
     },
     "items": [
         {
-            "id": "https://github.com/imnxnyer/lady-rosa/pop-up-locations/index.html",
-            "url": "https://github.com/imnxnyer/lady-rosa/pop-up-locations/index.html",
+            "id": "https://github.com/imnxnyer/lady-rosa/index.html/pop-up-locations/index.html",
+            "url": "https://github.com/imnxnyer/lady-rosa/index.html/pop-up-locations/index.html",
             "title": "Pop up locations",
-            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/IMG-20160612-WA0001-2017_07_03-17_18_20-UTC.jpg\" data-size=\"1600x900\"><img loading=\"lazy\" src=\"https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/IMG-20160612-WA0001-2017_07_03-17_18_20-UTC-thumbnail.jpg\" alt=\"Santa Cruz\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/WP_20150412_001.jpg\" data-size=\"1280x720\"><img loading=\"lazy\" src=\"https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/WP_20150412_001-thumbnail.jpg\" alt=\"Santa Cruz\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/WP_20150419_001.jpg\" data-size=\"1280x720\"><img loading=\"lazy\" src=\"https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/WP_20150419_001-thumbnail.jpg\" alt=\"Monterey\" width=\"768\" height=\"432\"></a></figure>\n</div></div>",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://github.com/imnxnyer/lady-rosa/index.html/media/posts/3/gallery/IMG-20160612-WA0001-2017_07_03-17_18_20-UTC.jpg\" data-size=\"1600x900\"><img loading=\"lazy\" src=\"https://github.com/imnxnyer/lady-rosa/index.html/media/posts/3/gallery/IMG-20160612-WA0001-2017_07_03-17_18_20-UTC-thumbnail.jpg\" alt=\"Santa Cruz\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/imnxnyer/lady-rosa/index.html/media/posts/3/gallery/WP_20150412_001.jpg\" data-size=\"1280x720\"><img loading=\"lazy\" src=\"https://github.com/imnxnyer/lady-rosa/index.html/media/posts/3/gallery/WP_20150412_001-thumbnail.jpg\" alt=\"Santa Cruz\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://github.com/imnxnyer/lady-rosa/index.html/media/posts/3/gallery/WP_20150419_001.jpg\" data-size=\"1280x720\"><img loading=\"lazy\" src=\"https://github.com/imnxnyer/lady-rosa/index.html/media/posts/3/gallery/WP_20150419_001-thumbnail.jpg\" alt=\"Monterey\" width=\"768\" height=\"432\"></a></figure>\n</div></div>",
             "author": {
                 "name": "Rosa"
             },
@@ -24,8 +24,8 @@
             "date_modified": "2024-09-03T17:29:32-07:00"
         },
         {
-            "id": "https://github.com/imnxnyer/lady-rosa/its-recyling/index.html",
-            "url": "https://github.com/imnxnyer/lady-rosa/its-recyling/index.html",
+            "id": "https://github.com/imnxnyer/lady-rosa/index.html/its-recyling/index.html",
+            "url": "https://github.com/imnxnyer/lady-rosa/index.html/its-recyling/index.html",
             "title": "Secondhand clothing can be fun to wear",
             "summary": "Here are a few reasons why : Unique and one-of-a-kind: You'll often find pieces that are hard to come by in&hellip;",
             "content_html": "<p><strong>Here are a few reasons why :</strong></p>\n<ol>\n<li><strong>Unique and one-of-a-kind:</strong> You'll often find pieces that are hard to come by in stores, adding a unique touch to your wardrobe.</li>\n<li><strong>Sustainable and eco-friendly:</strong> Buying secondhand helps reduce waste and conserve resources, making it a more sustainable choice.</li>\n<li><strong>Affordable:</strong> Secondhand clothing can be significantly cheaper than new items, allowing you to experiment with different styles without breaking the bank.</li>\n<li><strong>Vintage vibes:</strong> Many secondhand stores have a wide selection of vintage and retro pieces, offering a nostalgic and timeless look.</li>\n<li><strong>Support local communities:</strong> Shopping at local thrift stores and consignment shops can help support your community and local businesses.</li>\n</ol>",
@@ -38,12 +38,12 @@
             "date_modified": "2024-09-03T15:26:40-07:00"
         },
         {
-            "id": "https://github.com/imnxnyer/lady-rosa/the-season-is-changing/index.html",
-            "url": "https://github.com/imnxnyer/lady-rosa/the-season-is-changing/index.html",
+            "id": "https://github.com/imnxnyer/lady-rosa/index.html/the-season-is-changing/index.html",
+            "url": "https://github.com/imnxnyer/lady-rosa/index.html/the-season-is-changing/index.html",
             "title": "Lady Rosa",
             "summary": "Over 30 years of experience uncovering hidden gems amidst tons of secondhand clothing. Let us help you find your next&hellip;",
             "content_html": "<h4 class=\"align-center\"><em>Over 30 years of experience uncovering hidden gems amidst tons of secondhand clothing. Let us help you find your next one-of-a-kind</em> treasure.</h4>",
-            "image": "https://github.com/imnxnyer/lady-rosa/media/posts/1/IMG-20161211-WA0010-2017_07_03-17_18_20-UTC.jpg",
+            "image": "https://github.com/imnxnyer/lady-rosa/index.html/media/posts/1/IMG-20161211-WA0010-2017_07_03-17_18_20-UTC.jpg",
             "author": {
                 "name": "Rosa"
             },
