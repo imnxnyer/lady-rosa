@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>lady rosa</title>
+    <link href="https://github.com/imnxnyer/lady-rosa/feed.xml" rel="self" />
+    <link href="https://github.com/imnxnyer/lady-rosa" />
+    <updated>2024-09-03T17:29:32-07:00</updated>
+    <author>
+        <name>Rosa</name>
+    </author>
+    <id>https://github.com/imnxnyer/lady-rosa</id>
+
+    <entry>
+        <title>Pop up locations</title>
+        <author>
+            <name>Rosa</name>
+        </author>
+        <link href="https://github.com/imnxnyer/lady-rosa/pop-up-locations/"/>
+        <id>https://github.com/imnxnyer/lady-rosa/pop-up-locations/</id>
+
+        <updated>2024-09-03T17:29:32-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/IMG-20160612-WA0001-2017_07_03-17_18_20-UTC.jpg" data-size="1600x900"><img loading="lazy" src="https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/IMG-20160612-WA0001-2017_07_03-17_18_20-UTC-thumbnail.jpg" alt="Santa Cruz" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/WP_20150412_001.jpg" data-size="1280x720"><img loading="lazy" src="https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/WP_20150412_001-thumbnail.jpg" alt="Santa Cruz" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/WP_20150419_001.jpg" data-size="1280x720"><img loading="lazy" src="https://github.com/imnxnyer/lady-rosa/media/posts/3/gallery/WP_20150419_001-thumbnail.jpg" alt="Monterey" width="768" height="432"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Secondhand clothing can be fun to wear</title>
+        <author>
+            <name>Rosa</name>
+        </author>
+        <link href="https://github.com/imnxnyer/lady-rosa/its-recyling/"/>
+        <id>https://github.com/imnxnyer/lady-rosa/its-recyling/</id>
+
+        <updated>2024-09-03T14:55:02-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Here are a few reasons why : Unique and one-of-a-kind: You'll often find pieces that are hard to come by in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Here are a few reasons why :</strong></p>
+<ol>
+<li><strong>Unique and one-of-a-kind:</strong> You'll often find pieces that are hard to come by in stores, adding a unique touch to your wardrobe.</li>
+<li><strong>Sustainable and eco-friendly:</strong> Buying secondhand helps reduce waste and conserve resources, making it a more sustainable choice.</li>
+<li><strong>Affordable:</strong> Secondhand clothing can be significantly cheaper than new items, allowing you to experiment with different styles without breaking the bank.</li>
+<li><strong>Vintage vibes:</strong> Many secondhand stores have a wide selection of vintage and retro pieces, offering a nostalgic and timeless look.</li>
+<li><strong>Support local communities:</strong> Shopping at local thrift stores and consignment shops can help support your community and local businesses.</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lady Rosa</title>
+        <author>
+            <name>Rosa</name>
+        </author>
+        <link href="https://github.com/imnxnyer/lady-rosa/the-season-is-changing/"/>
+        <id>https://github.com/imnxnyer/lady-rosa/the-season-is-changing/</id>
+        <media:content url="https://github.com/imnxnyer/lady-rosa/media/posts/1/IMG-20161211-WA0010-2017_07_03-17_18_20-UTC.jpg" medium="image" />
+
+        <updated>2024-09-02T21:34:23-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/imnxnyer/lady-rosa/media/posts/1/IMG-20161211-WA0010-2017_07_03-17_18_20-UTC.jpg" alt="Lady Rosa" />
+                    Over 30 years of experience uncovering hidden gems amidst tons of secondhand clothing. Let us help you find your next&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://github.com/imnxnyer/lady-rosa/media/posts/1/IMG-20161211-WA0010-2017_07_03-17_18_20-UTC.jpg" class="type:primaryImage" alt="Lady Rosa" /></p>
+                <h4 class="align-center"><em>Over 30 years of experience uncovering hidden gems amidst tons of secondhand clothing. Let us help you find your next one-of-a-kind</em> treasure.</h4>
+            ]]>
+        </content>
+    </entry>
+</feed>
